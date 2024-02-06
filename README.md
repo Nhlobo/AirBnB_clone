@@ -51,7 +51,7 @@ Classes inherited from Base Model:
 [file_storage.py](/models/engine/file_storage.py) - serializes instances to a JSON file & deserializes back to
 
 ## Contributors
-Nhlovo Mathebula - [Github](https://github.com/nhlovomathebula)
+Nhlovo Mathebula - [Github](https://github.com/Nhlobo)
 
 ## License
 Public Domain. No copyright protection.
