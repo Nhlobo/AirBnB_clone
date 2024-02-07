@@ -16,7 +16,7 @@ This console application serves as the cornerstone of Nhlobo's AirBnB Clone proj
 This project is designed and tested on Ubuntu 14.04 LTS using Python3 (version 3.4.3).
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/nhlovomathebula/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/nhlobo/AirBnB_clone.git"`
 * Navigate to the project directory: `cd AirBnB_clone`
 * Run the console interactively: `./console` and enter commands
 * Run the console non-interactively: `echo "<command>" | ./console.py`
