@@ -48,10 +48,4 @@ Classes inherited from Base Model:
 * [user.py](/models/user.py)
 
 #### `/models/engine` directory contains File Storage class that handles JSON serialization and deserialization:
-[file_storage.py](/models/engine/file_storage.py) - serializes instances to a JSON file & deserializes back to
-
-## Contributors
-Nhlovo Mathebula - [Github](https://github.com/nhlobo)
-
-## License
-Public Domain. No copyright protection.
+[file_storage.py](/models/engine/file_storage.py)
